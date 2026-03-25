@@ -1,8 +1,5 @@
 Hi, I'm Aliaksei Ioda
 
-Profile Views
-Followers
-
 About Me
 
 • Software Engineering student based in Vilnius, Lithuania.

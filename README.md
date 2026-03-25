@@ -1,1 +1,32 @@
-# 👋 Hi, I'm Aliaksei Ioda\n\nSoftware Engineering student based in Vilnius, Lithuania. I'm focused on Full-stack Development, AI Automation, and Network Infrastructure.\n\n## 🛠 Tech Stack\n- **Languages:** TypeScript, JavaScript, Python, Java, R\n- **Backend:** Node.js, Express, FastAPI, PostgreSQL (Drizzle ORM)\n- **DevOps & Networks:** Docker, CI/CD (GitHub Actions), Cisco Networking (CCNA level)\n- **Special Interests:** Model Context Protocol (MCP), Agentic Workflows, LegalTech\n\n## 🚀 My GSoC 2026 Journey\nCurrently contributing to **Accord Project**, exploring the intersection of smart legal contracts and LLMs through MCP.\n\n## 📈 GitHub Stats\n![Aliaksei's GitHub stats](https://github-readme-stats.vercel.app/api?username=auryxn&show_icons=true&theme=tokyonight)\n\n---
+Hi, I'm Aliaksei Ioda
+
+Profile Views
+Followers
+
+About Me
+
+• Software Engineering student based in Vilnius, Lithuania.
+• GSoC 2026 Contributor at Accord Project, working on APAP and MCP Server.
+• Focused on AI Automation, Agentic Workflows, and High-Performance Backend Systems.
+• Academic Excellence in Network Infrastructure (Cisco) and Data Analysis.
+
+Tech Stack
+
+| Category   | Technologies                                      |
+| ---------- | ------------------------------------------------- |
+| Languages  | TypeScript, Python, Java, JavaScript, R, SQL      |
+| Frontend   | React, HTML5, CSS3, Tailwind CSS                  |
+| Backend    | Node.js, Express, FastAPI, NestJS                 |
+| Database   | PostgreSQL, Drizzle ORM, Prisma, MongoDB          |
+| DevOps     | Docker, GitHub Actions, CI/CD, Linux (Ubuntu)     |
+| Networking | Cisco IOS, NAT/PAT, IPsec VPN, CCNA level         |
+| AI/Tools   | Model Context Protocol (MCP), LLM APIs, LangChain |
+Featured Projects
+
+| Project               | Description                                                     |
+| --------------------- | --------------------------------------------------------------- |
+| accord-mcp-experiment | PoC MCP server for smart legal contracts integration with LLMs. |
+| sdc-academic-labs     | Advanced university portfolio (Data Analysis & Networking).     |
+| inventory-db-poc      | High-performance inventory management schema with Drizzle ORM.  |
+| crypto-mcp-tracker    | Real-time crypto price tracking tool via MCP protocol.          |
+───
